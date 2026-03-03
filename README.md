@@ -57,8 +57,8 @@ Family expense tracking system with reminders and calendar integration.
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your link)
-- Email: (Add your email)
+- LinkedIn: https://www.linkedin.com/in/aswinrp07
+- Email: aswinrp16@gmail.com
 
 ---
 
